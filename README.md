@@ -27,7 +27,7 @@ This repository contains the work completed during the BCG Data Science Job Simu
   - Tuned hyperparameters using GridSearchCV to identify the best model configuration.
 - Evaluated model performance using metrics like accuracy, precision, and recall.
 
-Task 4: Findings & Recommendations
+### Task 4: Findings & Recommendations
 - Delivered an executive summary highlighting key drivers of churn:
   - Net margin, forecast meter rent, and consumption over 12 months were top predictors.
   - Price sensitivity was a weak contributor but required further experimentation.
