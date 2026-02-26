@@ -18,19 +18,19 @@ This repository contains the work completed during the BCG Data Science Job Simu
 
 ### Task 3: Feature Engineering & Modelling
 - Engineered features such as:
- - Differences in off-peak prices between December and January.
- - Average price changes across different periods.
- - Customer tenure and months since contract updates.
+  - Differences in off-peak prices between December and January.
+  - Average price changes across different periods.
+  - Customer tenure and months since contract updates.
 - Transformed categorical variables into numerical representations using Label Encoding.
 - Built and optimized a Random Forest model:
- - Achieved 85% prediction accuracy.
- - Tuned hyperparameters using GridSearchCV to identify the best model configuration.
+  - Achieved 85% prediction accuracy.
+  - Tuned hyperparameters using GridSearchCV to identify the best model configuration.
 - Evaluated model performance using metrics like accuracy, precision, and recall.
 
 Task 4: Findings & Recommendations
 - Delivered an executive summary highlighting key drivers of churn:
- - Net margin, forecast meter rent, and consumption over 12 months were top predictors.
- - Price sensitivity was a weak contributor but required further experimentation.
+  - Net margin, forecast meter rent, and consumption over 12 months were top predictors.
+  - Price sensitivity was a weak contributor but required further experimentation.
 - Provided actionable recommendations to reduce churn and improve customer retention.
 
 ## Tools & Technologies
