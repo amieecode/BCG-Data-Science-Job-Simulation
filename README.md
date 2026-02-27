@@ -42,3 +42,5 @@ This repository contains the work completed during the BCG Data Science Job Simu
 - Analyzed customer churn using Python for data processing and visualization.
 - Developed an optimized Random Forest model achieving 85% prediction accuracy.
 - Delivered actionable insights through an executive summary to drive business decisions at XYZ Analytics.
+
+![Certification](https://github.com/amieecode/BCG-Data-Science-Job-Simulation/blob/main/Task%204%20Findings%20%26%20Recommendations/certification.png)
