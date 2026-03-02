@@ -23,7 +23,7 @@ This repository contains the work completed during the BCG Data Science Job Simu
   - Customer tenure and months since contract updates.
 - Transformed categorical variables into numerical representations using Label Encoding.
 - Built and optimized a Random Forest model:
-  - Achieved 85% prediction accuracy.
+  - Achieved 90.4% prediction accuracy.
   - Tuned hyperparameters using GridSearchCV to identify the best model configuration.
 - Evaluated model performance using metrics like accuracy, precision, and recall.
 
